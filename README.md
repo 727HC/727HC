@@ -14,7 +14,7 @@
 
 ### 🧰 Stack
 
-`Hyperledger Fabric` · `Go (chaincode)` · `C (S32K144/S32K344)` · `CAN / DBC` · `IPFS` · `SHAP` · `Grad-CAM` · `CARLA`
+`Hyperledger Fabric` · `Embedded C` · `Go` · `XAI`
 
 ### 📊 Stats
 
