@@ -1,8 +1,9 @@
 <h1 align="center">727HC</h1>
 
 <p align="center">
-  <b>Embedded security × on-chain trust</b><br/>
-  BMS · Battery Passport · XAI attribution
+  <a href="https://github.com/727HC">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=7DC4E4&center=true&vCenter=true&width=600&lines=Hyperledger+Fabric+developer;On-chain+trust+for+physical+systems;Battery+passport+%26+XAI+attribution" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
@@ -14,7 +15,9 @@
 
 ### 🧰 Stack
 
-`Hyperledger Fabric` · `Embedded C` · `Go` · `XAI`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,c,py,docker,ipfs,linux,bash" alt="skills" />
+</p>
 
 ### 🐍 Contribution Snake
 
