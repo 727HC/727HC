@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/727HC">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=7DC4E4&center=true&vCenter=true&width=600&lines=Hyperledger+Fabric+developer;On-chain+trust+for+physical+systems;Battery+passport+%26+XAI+attribution" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=7DC4E4&center=true&vCenter=true&width=600&lines=Building+on+Hyperledger+Fabric;On-chain+trust+for+physical+systems;Battery+passport+%26+XAI+attribution" alt="Typing SVG" />
   </a>
 </p>
 
