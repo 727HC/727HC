@@ -11,7 +11,7 @@
 ### 🔧 Current work
 
 - **[BMS-Secure-Communication](https://github.com/727HC/BMS-Secure-Communication)** — Secure CAN communication for battery management systems on NXP S32K MCUs, bridged to a Hyperledger Fabric passport network.
-- **WISA-experiment** *(private)* — On-chain XAI attribution for autonomous driving. Hyperledger Fabric 2.5 + SHAP/Grad-CAM + IPFS + CARLA.
+- **HLF - AVs** *(private)* — On-chain XAI attribution for autonomous driving. Hyperledger Fabric 2.5 + SHAP/Grad-CAM + IPFS + CARLA.
 
 ### 🧰 Stack
 
