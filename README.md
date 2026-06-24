@@ -23,6 +23,7 @@
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=727HC&show_icons=true&count_private=true&hide_border=true&title_color=7DC4E4&icon_color=7DC4E4&text_color=cdd6f4&bg_color=1e1e2e" alt="stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=727HC&theme=nord_dark&utcOffset=9" alt="productive time" />
 </p>
 
 ### 🐍 Contribution Snake
