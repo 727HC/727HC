@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/727HC">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=7DC4E4&center=true&vCenter=true&width=600&lines=Building+on+Hyperledger+Fabric;On-chain+trust+for+physical+systems;Battery+passport+%26+XAI+attribution" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=7DC4E4&center=true&vCenter=true&width=760&lines=Building+on+Hyperledger+Fabric;On-chain+trust+for+physical+systems;Battery+passport+%26+XAI+attribution" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,7 +16,13 @@
 ### 🧰 Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,c,py,docker,ipfs,linux,bash" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=go,c,py,solidity,docker,kubernetes,ipfs,linux,bash" alt="skills" />
+</p>
+
+### 📊 Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=727HC&show_icons=true&count_private=true&hide_border=true&title_color=7DC4E4&icon_color=7DC4E4&text_color=cdd6f4&bg_color=1e1e2e" alt="stats" />
 </p>
 
 ### 🐍 Contribution Snake
