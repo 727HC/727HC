@@ -6,12 +6,27 @@
   </a>
 </p>
 
+<p align="center">
+  Working on <b>on-chain trust for physical systems</b> — battery passports, secure BMS &amp; CAN,
+  and verifiable evidence for autonomous driving. Mostly Go + Hyperledger Fabric, with a foot in embedded C.
+</p>
+
+<p align="center">
+  <a href="mailto:hckim@pusan.ac.kr"><img src="https://img.shields.io/badge/hckim%40pusan.ac.kr-7DC4E4?style=flat-square&logo=maildotru&logoColor=1e1e2e" alt="email" /></a>
+</p>
+
 ---
 
-### 🔧 Current work
+### 🔧 What I work on
 
-- **[BMS-Secure-Communication](https://github.com/727HC/BMS-Secure-Communication)** — Secure CAN communication for battery management systems on NXP S32K MCUs, bridged to a Hyperledger Fabric passport network.
-- **HLF - AVs** *(private)* — On-chain XAI attribution for autonomous driving. Hyperledger Fabric 2.5 + SHAP/Grad-CAM + IPFS + CARLA.
+- **On-chain trust for physical systems** — anchoring integrity, provenance, and accountability for hardware-sourced data on a permissioned ledger, instead of trusting a single operator.
+- **Battery passports** — bridging embedded BMS / CAN telemetry to a Hyperledger Fabric passport network.
+- **Verifiable AV forensics** — selective-disclosure verification and XAI attribution for autonomous-driving evidence, kept accountable at dispute time.
+
+### 📦 Projects
+
+- **[BMS-Secure-Communication](https://github.com/727HC/BMS-Secure-Communication)** `C` — secure CAN communication for battery management systems on NXP S32K MCUs, bridged to a Hyperledger Fabric passport network.
+- **HLF – AVs** *(private)* — on-chain XAI attribution for autonomous driving. Hyperledger Fabric 2.5 + SHAP / Grad-CAM + IPFS + CARLA.
 
 ### 🧰 Stack
 
@@ -23,7 +38,6 @@
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=727HC&show_icons=true&count_private=true&hide_border=true&title_color=7DC4E4&icon_color=7DC4E4&text_color=cdd6f4&bg_color=1e1e2e" alt="stats" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=727HC&theme=nord_dark&utcOffset=9" alt="productive time" />
 </p>
 
 ### 🐍 Contribution Snake
