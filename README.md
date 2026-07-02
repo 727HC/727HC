@@ -34,12 +34,6 @@
   <img src="https://skillicons.dev/icons?i=go,c,py,solidity,docker,kubernetes,ipfs,linux,bash" alt="skills" />
 </p>
 
-### 📊 Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=727HC&hide_border=true&background=1e1e2e&stroke=7DC4E4&ring=7DC4E4&fire=7DC4E4&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=7DC4E4&sideLabels=cdd6f4&dates=8087a2" alt="streak" />
-</p>
-
 ### 🐍 Contribution Snake
 
 <picture>
